@@ -1,4 +1,4 @@
 php_miscellany
 ==============
 
-medley of php files
+php service scripts
